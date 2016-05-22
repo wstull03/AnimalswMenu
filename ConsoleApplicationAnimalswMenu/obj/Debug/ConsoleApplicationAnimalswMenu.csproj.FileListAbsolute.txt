@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationAnimalswMenu\ConsoleApplicationAnimalswMenu\bin\Debug\ConsoleApplicationAnimalswMenu.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationAnimalswMenu\ConsoleApplicationAnimalswMenu\obj\Debug\ConsoleApplicationAnimalswMenu.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationAnimalswMenu\ConsoleApplicationAnimalswMenu\bin\Debug\ConsoleApplicationAnimalswMenu.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationAnimalswMenu\ConsoleApplicationAnimalswMenu\bin\Debug\ConsoleApplicationAnimalswMenu.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationAnimalswMenu\ConsoleApplicationAnimalswMenu\obj\Debug\ConsoleApplicationAnimalswMenu.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationAnimalswMenu\ConsoleApplicationAnimalswMenu\obj\Debug\ConsoleApplicationAnimalswMenu.pdb
